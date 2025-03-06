@@ -20,4 +20,15 @@ This Python script uses OpenCV and Mediapipe to control the mouse cursor and man
 -   PyAutoGUI (`pyautogui`)
 -   NumPy (`numpy`)
 
+There are both ".py" file and ".ipynb" file 
+choose the file that suits your IDE
+IF you wish run in colab ## Running in Google Colab 
+
+To run the `Hand_gesture_control.ipynb` notebook in Google Colab:
+
+1.  Find the notebook on GitHub i.e "Hand_gesture_control.ipynb".
+2.  Open the file.
+3.  Change the URL "https://github.com/Yuva-Praneeth/Hand_gesture_control/blob/main/Hand_gesture_control.ipynb" to: "https://githubtocolab.com/Yuva-Praneeth/Hand_gesture_control/blob/main/Hand_gesture_control.ipynb".
+4.  Run the notebook in Colab.
+
 
