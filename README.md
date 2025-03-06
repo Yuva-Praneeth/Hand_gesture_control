@@ -1,4 +1,4 @@
-# Hand Gesture Controlled Mouse and Window Management
+#Simple Hand Gesture Controlled Mouse and Window Management
 
 This Python script uses OpenCV and Mediapipe to control the mouse cursor and manage windows using hand gestures.
 
@@ -19,4 +19,5 @@ This Python script uses OpenCV and Mediapipe to control the mouse cursor and man
 -   Mediapipe (`mediapipe`)
 -   PyAutoGUI (`pyautogui`)
 -   NumPy (`numpy`)
+
 
